@@ -1,5 +1,5 @@
 #!/bin/bash
 
 git pull --recurse-submodules
-hugo
+#hugo
 exit 0
