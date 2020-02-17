@@ -14,3 +14,4 @@ This application allows you to easily:
 Member-Mixer by Miriam Feldhausen is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">Creative Commons Attribution Non-Commercial 3.0 License</a>. 
 
 Permissions beyond the scope of this license may be available by contacting <a href="mailto:miriam.feldhausen@gmail.com?Subject=Member-Mixer%20License%20Inquiry">Miriam Feldhausen</a>.
+
