@@ -1,0 +1,26 @@
+BACKEND TODOs:
+- Record Insertion Logic
+- Record Update Logic
+- Record Delete Logic & Soft Deletes
+
+FRONTEND TODOs:
+- Scaffold the Frontend App
+- Connect to the Backend API
+- Select API Services
+    - Mapping API (non Google)
+    - Weather API (weather underground?)
+- Support for Timezones
+
+BACKEND TODOs:
+- Set up SMTP server or SaaS/PaaS solution
+- Scaffold Email handling
+    - Unsubscribe options for users
+
+FRONTEND TODOs:
+- Scaffold Email handling
+
+BACKEND TODOs:
+- Adding Support for Record Auditing
+- Adding Logging
+- Adding Auth (Authentication -> Federated?, Authorization -> Per)
+- API Versioning
