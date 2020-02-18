@@ -12,9 +12,6 @@ class ItineraryViewSet(viewsets.ModelViewSet):
 
 class EventViewSet(viewsets.ModelViewSet):
     queryset = models.Event.objects.all()
-    """ TRANSLATES TO SQL:
-        SELECT * FROM event ORDER BY start_date
-    """
     serializer_class = serializers.EventSerializer
 
 class GroupViewSet(viewsets.ModelViewSet):

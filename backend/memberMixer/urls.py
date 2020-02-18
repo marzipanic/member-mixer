@@ -18,5 +18,6 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'api/', include('memberMixerApi.urls')),
+    url(r'^api-auth/', include('rest_framework.urls', namespace='rest_framework'))
     # url('admin/', admin.site.urls),
 ]
